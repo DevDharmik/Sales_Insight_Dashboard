@@ -58,4 +58,5 @@ Data Analysis Using Power BI
 
 ### Screenshot of Dashboard 
 
-![Sales Insight](https://github.com/user-attachments/assets/c6b26a54-a1d9-4cc3-b779-21ef9ecab85e)
+![Sales Insight](![Sales Insight](https://github.com/user-attachments/assets/a76bd864-85fc-45bc-ab84-7d4358b7ab56)
+)
